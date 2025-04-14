@@ -1,4 +1,3 @@
-//浙江大学 生仪学院 李嘉宇 22315088  TEL:19177225480
 #if !defined(CONFIG_H)
 #define CONFIG_H
 
